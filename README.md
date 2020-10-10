@@ -1,6 +1,6 @@
 # NRYNMusic
 
-Copyright (C) 2020 Axisoft
+    Copyright (C) 2020 Axisoft
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
